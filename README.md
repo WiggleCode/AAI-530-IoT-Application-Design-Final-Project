@@ -144,7 +144,7 @@ Visualizations include average temperature, average humidity, water pump utiliza
 
 ## License
 
-This dataset is **licensed under CC BY-ND** (Creative Commons Attribution-NonCommercial-ShareAlike). Proper attribution is required for any publication or use.
+This dataset is **licensed under CC BY-ND 4.0** (Creative Commons Attribution-NoDerivatives 4.0 International). Proper attribution is required for any publication or use. See [license details](https://creativecommons.org/licenses/by-nd/4.0/).
 
 ## Team Members
 
